@@ -1,0 +1,37 @@
+Results of the queries are as follows: 
+
+Top 5 nodes with the highest outdegree and their corresponding number of outgoing edges -
+2494 has 2511 out degree.
+4805 has 2248 out degree.
+398 has 2209 out degree.
+381 has 1851 out degree.
+226 has 1701 out degree.
+
+Top 5 nodes with the highest indegree and their corresponding number of incoming edges -
+2494 has 2511 in degree.
+4805 has 2248 in degree.
+398 has 2209 in degree.
+381 has 1851 in degree.
+226 has 1701 in degree.
+
+Top 5 nodes having highest pagerank values -
+2494 node has 131.03305586391198 pagerank value.
+398 node has 120.7429949336521 pagerank value.
+381 node has 114.86229629956443 pagerank value.
+37 node has 88.11416091795344 pagerank value.
+4805 node has 84.19180371642892 pagerank value.
+
+Top 5 components with the largest number of nodes -
+0'th connected component has 71307 nodes.
+60237'th connected component has 6 nodes.
+36794'th connected component has 6 nodes.
+73206'th connected component has 5 nodes.
+65244'th connected component has 5 nodes.
+
+Top 5 vertices with the largest triangle count -
+49 node has 15666 triangles passing through it.
+195 node has 12456 triangles passing through it.
+398 node has 11590 triangles passing through it.
+1723 node has 11452 triangles passing through it.
+342 node has 11191 triangles passing through it.
+
